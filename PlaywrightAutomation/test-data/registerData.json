@@ -1,0 +1,10 @@
+[
+  {
+    "gender": "female",
+    "firstName": "Sara",
+    "lastName": "Khan",
+    "email": "Sara+{{ts}}@test.com",
+    "password": "Password@123",
+    "confirmPassword": "Password@123"
+  }
+]

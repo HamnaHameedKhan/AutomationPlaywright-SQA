@@ -1,0 +1,24 @@
+[
+  {
+    "productCategory": "Computers > Notebooks",
+    "productName": "14.1-inch Laptop",
+    "email": "Sara778844@gmail.com",
+    "password": "Password@123",
+    "billing": {
+      "firstName": "Sara",
+      "lastName": "Khan",
+      "email": "Sara778844@gmail.com",
+      "company": "Test Company",
+      "country": "United States",
+      "state": "Other (Non US)",
+      "city": "New York",
+      "address1": "123 Main St",
+      "address2": "Apt 4B",
+      "zip": "10001",
+      "phone": "1234567890",
+      "fax": "0987654321"
+    },
+    "shippingMethod": "Ground (0.00)",
+    "paymentMethod": "Check / Money Order"
+  }
+]
